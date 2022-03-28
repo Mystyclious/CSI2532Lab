@@ -4,9 +4,11 @@ Elliot Kirsch
 Lab9:
 
 Q1
+
 ![image](https://github.com/Mystyclious/CSI2532Lab/blob/master/Lab9/Q1.png)
 
 Q2
+
 ![image](https://github.com/Mystyclious/CSI2532Lab/blob/master/Lab9/Q2.png)
 
 Q3
