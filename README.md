@@ -10,6 +10,7 @@ Q2
 ![image](https://github.com/Mystyclious/CSI2532Lab/blob/master/Lab9/Q2.png)
 
 Q3
+
 ![image](https://github.com/Mystyclious/CSI2532Lab/blob/master/Lab9/Q3.png)
 
 Q4
